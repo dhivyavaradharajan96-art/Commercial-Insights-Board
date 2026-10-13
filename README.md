@@ -1,4 +1,4 @@
-# Commercial-Insights-Board
+# Commercial-Insights-Board - Power BI
 The Commercial Insight Board is a unified analytics solution designed for real-time sales performance monitoring and comprehensive operational analysis. By integrating data across multiple source systems, this platform serves as a single source of truth—delivering immediate visibility into revenue drivers, automated KPI tracking, cross-platform data integrity verification, and precise variance tracking.
 
 Key Capabilities
